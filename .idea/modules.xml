@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoggingClient/LoggingClient.iml" filepath="$PROJECT_DIR$/LoggingClient/LoggingClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoggingData.iml" filepath="$PROJECT_DIR$/LoggingData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoggingRest/LoggingRest.iml" filepath="$PROJECT_DIR$/LoggingRest/LoggingRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoggingService/LoggingService.iml" filepath="$PROJECT_DIR$/LoggingService/LoggingService.iml" />
+    </modules>
+  </component>
+</project>
